@@ -1,0 +1,15 @@
+.cameraV1{
+  visibility: hidden;
+}
+.center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  position: relative;
+  top: -80vh;
+  color: red;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 3px;
+  font-size: 65px;
+}
